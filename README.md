@@ -3,7 +3,7 @@
 ## Problem Statement
 Understanding Brazilian e-commerce data trends and insights for targeted strategy development.
 
-## Solution
+## Solution 
 Utilized Google BigQuery and SQL techniques to analyze state-specific patterns, payment preferences, and delivery trends. This analysis included:
 
 - **Exploratory Data Analysis**: Investigating the structure and characteristics of the dataset.
