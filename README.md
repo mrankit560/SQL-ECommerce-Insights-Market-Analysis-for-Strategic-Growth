@@ -1,4 +1,4 @@
-# E-Commerce Insights: Market Analysis for Strategic Growth
+# SQL-ECommerce Insights: Market Analysis for Strategic Growth
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
